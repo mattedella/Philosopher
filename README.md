@@ -118,10 +118,10 @@ If basic requirements are met, you may implement:
 
 ## 📄 License
 
-MIT License — Free to use, study, and modify.
+This project is developed as part of the **42 School** curriculum. Feel free to reuse, modify, and learn from it!
 
 ---
 
 ## 🙌 Credits
 
-Inspired by the classic concurrency problem first described by **Edsger W. Dijkstra**.
+Built by students at [42 Firenze](https://42firenze.it), with love and sockets ❤️
